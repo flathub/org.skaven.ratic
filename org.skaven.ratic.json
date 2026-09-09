@@ -43,8 +43,8 @@
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/RatCornu/ratic.git",
-          "tag": "v0.4.0",
-          "commit": "fe9a2352ef18cdadcb57437000a5e2ced32c4971"
+          "tag": "v0.4.1",
+          "commit": "e6d193b3900cb4002bb952cac0f4e84d93256dab"
         },
         "cargo-sources.json"
       ]
