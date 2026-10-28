@@ -1,7 +1,7 @@
 {
   "id": "org.skaven.ratic",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "50",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "sdk-extensions" : [
     "org.freedesktop.Sdk.Extension.rust-stable"
@@ -43,8 +43,8 @@
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/RatCornu/ratic.git",
-          "tag": "v0.4.4",
-          "commit": "57232f2ef220cb44066391689941972ac6de5b76"
+          "tag": "v0.4.6",
+          "commit": "2df8db3413ee27c9537645416c821cbb110e4f8b"
         },
         "cargo-sources.json"
       ]
